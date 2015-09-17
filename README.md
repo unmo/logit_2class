@@ -12,6 +12,3 @@
      * numpy
      * scikit-learn
      * NLTK
-=======
-# logistic_regression_test
->>>>>>> 6a19cdc8a37a1401f3484b0144948f01ee8d3303

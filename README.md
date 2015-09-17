@@ -8,7 +8,7 @@
 * ğŒ
   * language
      * python
-  * library
+  * package
      * numpy
      * scikit-learn
-     * NLTK
+     * stemming
